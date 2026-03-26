@@ -3,18 +3,20 @@
 An interactive Text-to-Speech (TTS) application built using Python that converts written text into spoken audio. The project demonstrates core concepts of Python programming, library integration, and basic AI-based voice synthesis.
 
 📌 Table of Contents
-Overview
-Problem Statement
-Dataset & Inputs
-Tools & Technologies
-Project Structure
-Core Features
-Detection Logic & Workflow
-User Interface & Design
-Strengths & Limitations
-Recommendations & Future Work
-How to Run This Project
-Author & Contact
+## Overview
+## Problem Statement
+## Dataset & Inputs
+## Tools & Technologies
+## Project Structure
+## Core Features
+## Detection Logic & Workflow
+## User Interface & Design
+## Strengths & Limitations
+## Recommendations & Future Work
+## How to Run This Project
+## Author & Contact
+
+
 🧩 Overview
 
 The Text-to-Speech Converter is a Python-based application that transforms textual input into audio output. It is useful for accessibility, automation, and voice-enabled applications.
